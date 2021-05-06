@@ -1,4 +1,4 @@
-Quick test script for linear regression using %. in J, comparison with lapack gels and R (which ).
+Quick test script for linear regression using %. in J, comparison with lapack gels and R (which uses the lapack gels function).
 
 NIST standards come from here:
 https://www.itl.nist.gov/div898/strd/lls/lls.shtml
